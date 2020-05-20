@@ -1,0 +1,28 @@
+.App {
+  text-align: left;
+}
+
+.preview-text{
+   display:flex;
+   justify-content:center ;
+   margin-top: 10%;
+  font-size: 50px;
+  font-family:Arial Black;
+ }
+.preview-text-second{
+  display:flex;
+  justify-content:center ;
+  font-size: 50px;
+  margin-top: 10px;
+  font-family:Arial Black;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+
+}
+
+
+
+
+

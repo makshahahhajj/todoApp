@@ -1,0 +1,44 @@
+.navbar-brand{
+    color: #ffffff;
+}
+
+.navbar-brand:hover{
+    color:white;
+}
+.nav-link{
+    color:white;
+}
+.nav-link:hover{
+    color:white;
+}
+.sign-in{
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+}
+.create-todo{
+    margin-right: 20px;
+    color:darkgray;
+    margin-top: 4px;
+}
+.create-todo:hover {
+    text-decoration: none;
+    color:white;
+
+}
+
+.brand{
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: 0px;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    color:white;
+}
+.sign-in:hover{
+    color:white;
+    text-underline: none;
+    text-decoration: none;
+}

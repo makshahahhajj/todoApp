@@ -1,0 +1,34 @@
+.main {
+    margin-top: 60px;
+    margin-left: 160px;
+}
+
+.mainContainer{
+    padding-left:160px;
+    padding-top: 60px;
+}
+.todo-list{
+    margin-top: 40px;
+    list-style: none;
+    padding-left:2px ;
+    font-size: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+}
+.custom-control {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.custom-control-label{
+    font-size: 16px;
+}
+
+.todo-list-add-btn{
+    margin-left: 15px;
+}
+.todoItem{
+    margin-top: 10px;
+}
