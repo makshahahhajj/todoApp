@@ -1,0 +1,4 @@
+{
+    "mongoUrl":"mongodb+srv://Max:maks2004@first-proj-0n3oe.mongodb.net/test?retryWrites=true&w=majority",
+    "jsonWebTokenKey": "secret123"
+}
